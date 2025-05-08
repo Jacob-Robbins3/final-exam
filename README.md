@@ -21,3 +21,6 @@ Creating, reading, updating, and deleting posts
 Adding and removing comments
 Token Required
 To create or delete posts or comments, you need to be logged in. After login, you’ll get a token. Use that token when sending requests that need permission.
+
+
+//I WORKED BY MYSELF AND DID EVERYTHING. I CREATED A NEW FRONTEND PART OF THIS PROJECT!
